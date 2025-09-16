@@ -2,7 +2,7 @@
   "name": "api_repaso",
   "version": "1.0.0",
   "type": "module",
-  "description": "repaso_examen",
+  "description": "api_examen",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
 
   },
   "keywords": [
-    "repaso",
+    "examen",
     "api"
   ],
   "author": "Emmanuel M",
